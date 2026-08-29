@@ -1,0 +1,10 @@
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\bin\Debug\H5A.exe.config
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\bin\Debug\H5A.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\bin\Debug\H5A.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.H5A.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.Properties.Resources.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H5A\H5A\obj\Debug\H5A.pdb

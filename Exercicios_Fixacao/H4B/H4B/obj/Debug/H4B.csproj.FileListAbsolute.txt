@@ -1,0 +1,10 @@
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\bin\Debug\H4B.exe.config
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\bin\Debug\H4B.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\bin\Debug\H4B.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.H4B.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.Properties.Resources.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4B\H4B\obj\Debug\H4B.pdb

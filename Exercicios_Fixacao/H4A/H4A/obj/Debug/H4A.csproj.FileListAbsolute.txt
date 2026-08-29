@@ -1,0 +1,10 @@
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\bin\Debug\H4A.exe.config
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\bin\Debug\H4A.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\bin\Debug\H4A.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.Properties.Resources.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H4A\H4A\obj\Debug\H4A.H4A.resources
