@@ -1,0 +1,10 @@
+C:\Users\jpsan\source\repos\H3B\H3B\bin\Debug\H3B.exe.config
+C:\Users\jpsan\source\repos\H3B\H3B\bin\Debug\H3B.exe
+C:\Users\jpsan\source\repos\H3B\H3B\bin\Debug\H3B.pdb
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.CollectionsExampleForm.resources
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.Properties.Resources.resources
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.exe
+C:\Users\jpsan\source\repos\H3B\H3B\obj\Debug\H3B.pdb

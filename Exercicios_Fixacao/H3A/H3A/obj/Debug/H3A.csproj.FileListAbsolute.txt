@@ -1,0 +1,10 @@
+C:\Users\jpsan\source\repos\H3A\H3A\bin\Debug\H3A.exe.config
+C:\Users\jpsan\source\repos\H3A\H3A\bin\Debug\H3A.exe
+C:\Users\jpsan\source\repos\H3A\H3A\bin\Debug\H3A.pdb
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.Form1.resources
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.Properties.Resources.resources
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.exe
+C:\Users\jpsan\source\repos\H3A\H3A\obj\Debug\H3A.pdb
