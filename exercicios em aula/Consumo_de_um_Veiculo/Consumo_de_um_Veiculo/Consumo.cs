@@ -34,7 +34,7 @@ namespace Consumo_de_um_Veiculo
 
         private void btnCriarCarro_Click(object sender, EventArgs e)
         {
-            if (txtModelo.Text == "" || txtConsumo.Text == "" || txtNivelCombustivel.Text == ""||txtDistanciaPercorrida.Text =="" || !int.TryParse(txtConsumo.Text, out int resul))
+            if (txtModelo.Text == "" || txtConsumo.Text == "" || txtNivelCombustivel.Text == ""||txtDistanciaPercorrida.Text =="" || !double.TryParse(txtConsumo.Text, out double resul))
             {
                 MessageBox.Show("Porfavor informe os valores");
             }
@@ -58,9 +58,10 @@ namespace Consumo_de_um_Veiculo
         private void btnAbastecer_Click(object sender, EventArgs e)
         {
             
-            if (txtLitros.Text != "" && int.TryParse(txtLitros.Text,out int resultado))
+            if (txtLitros.Text != "" && double.TryParse(txtLitros.Text,out double resultado))
             {
                 Car.Abastecer(double.Parse(txtLitros.Text));
+                txtLitros.Text = "";
                 txtNivelCombustivel.Text = Car.NivelCombustivel.ToString();
             }
             else
@@ -71,11 +72,12 @@ namespace Consumo_de_um_Veiculo
 
         private void btnAndar_Click(object sender, EventArgs e)
         {
-            if (txtDistancia.Text != "" && int.TryParse(txtLitros.Text, out int resultado))
+            if (txtDistancia.Text != "" && double.TryParse(txtDistancia.Text, out double resultado))
             {
                 if (Car.Andar(double.Parse(txtDistancia.Text)))
                 {
                     txtDistanciaPercorrida.Text = Car.DistanciaPercorrida.ToString();
+                    txtDistancia.Text = "";
                     txtNivelCombustivel.Text = Car.NivelCombustivel.ToString();
                 }
                 else

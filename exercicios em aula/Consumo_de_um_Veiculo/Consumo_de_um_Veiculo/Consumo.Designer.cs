@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Consumo));
             this.btnCriarCarro = new System.Windows.Forms.Button();
             this.txtModelo = new System.Windows.Forms.TextBox();
             this.txtNivelCombustivel = new System.Windows.Forms.TextBox();
@@ -113,6 +114,7 @@
             // 
             // lbModelo
             // 
+            this.lbModelo.BackColor = System.Drawing.SystemColors.Control;
             this.lbModelo.Location = new System.Drawing.Point(12, 33);
             this.lbModelo.Name = "lbModelo";
             this.lbModelo.Size = new System.Drawing.Size(136, 13);
@@ -221,6 +223,7 @@
             this.Controls.Add(this.txtNivelCombustivel);
             this.Controls.Add(this.txtModelo);
             this.Controls.Add(this.btnCriarCarro);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Consumo";
             this.Text = "Consumo Combustivel";
             this.Load += new System.EventHandler(this.Consumo_Load);

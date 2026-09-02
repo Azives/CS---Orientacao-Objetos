@@ -28,7 +28,7 @@ namespace Consumo_de_um_Veiculo
         }
         public bool Andar(double Distancia)
         {
-            if(Distancia <= this.ConsumoPorKm * this.NivelCombustivel)
+            if(Distancia <= CalcularAutonomia())
             {
                 this.DistanciaPercorrida += Distancia;
                 this.NivelCombustivel -= Distancia/ this.ConsumoPorKm;
