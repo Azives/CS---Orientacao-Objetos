@@ -1,0 +1,13 @@
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\bin\Debug\H67.exe.config
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\bin\Debug\H67.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\bin\Debug\H67.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.csproj.AssemblyReference.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.Properties.Resources.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.csproj.GenerateResource.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.csproj.CoreCompileInputs.cache
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.exe
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.pdb
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.frm_Filho1.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.frm_Filho2.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.frm_Hora67.resources
+C:\Users\jpsan\source\repos\Exercicios_Fixacao\H67\H67\obj\Debug\H67.frm_opcoes.resources
