@@ -1,0 +1,14 @@
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\bin\Debug\net8.0\proj2.exe
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\bin\Debug\net8.0\proj2.deps.json
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\bin\Debug\net8.0\proj2.runtimeconfig.json
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\bin\Debug\net8.0\proj2.dll
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\bin\Debug\net8.0\proj2.pdb
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.AssemblyInfoInputs.cache
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.AssemblyInfo.cs
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.csproj.CoreCompileInputs.cache
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.dll
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\refint\proj2.dll
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.pdb
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\proj2.genruntimeconfig.cache
+D:\joao pedro sanches\BRIPOOB\proj2\proj2\proj2\obj\Debug\net8.0\ref\proj2.dll

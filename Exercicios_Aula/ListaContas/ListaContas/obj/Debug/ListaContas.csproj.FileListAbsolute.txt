@@ -1,0 +1,23 @@
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\bin\Debug\ListaContas.exe.config
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\bin\Debug\ListaContas.exe
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\bin\Debug\ListaContas.pdb
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.AssemblyReference.cache
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.Properties.Resources.resources
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.GenerateResource.cache
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.CoreCompileInputs.cache
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.exe
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.pdb
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.w_Detalhe.resources
+D:\Valtemir\BRILPOO\ListaContas\ListaContas\obj\Debug\ListaContas.w_Lista.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\bin\Debug\ListaContas.exe.config
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\bin\Debug\ListaContas.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\bin\Debug\ListaContas.pdb
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.AssemblyReference.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.exe.config
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.w_Detalhe.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.w_Lista.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.Properties.Resources.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.GenerateResource.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.csproj.CoreCompileInputs.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\ListaContas\ListaContas\obj\Debug\ListaContas.pdb

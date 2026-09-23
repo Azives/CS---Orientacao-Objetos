@@ -1,0 +1,23 @@
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.w_Lista.resources
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.w_Detalhe.resources
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Properties.Resources.resources
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.GenerateResource.cache
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+D:\Valtemir\BRILPOO\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe.config
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.w_Lista.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.w_Detalhe.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Properties.Resources.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.GenerateResource.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
