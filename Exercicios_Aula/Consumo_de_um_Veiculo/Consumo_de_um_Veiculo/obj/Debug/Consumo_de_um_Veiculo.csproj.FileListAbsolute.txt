@@ -1,0 +1,11 @@
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\bin\Debug\Consumo_de_um_Veiculo.exe.config
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\bin\Debug\Consumo_de_um_Veiculo.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\bin\Debug\Consumo_de_um_Veiculo.pdb
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.csproj.AssemblyReference.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.Consumo.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.Properties.Resources.resources
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.csproj.GenerateResource.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.csproj.CoreCompileInputs.cache
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.exe
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.pdb
+D:\joao pedro sanches\BRIPOOB\exercicios em aula\Consumo_de_um_Veiculo\Consumo_de_um_Veiculo\obj\Debug\Consumo_de_um_Veiculo.exe.config
